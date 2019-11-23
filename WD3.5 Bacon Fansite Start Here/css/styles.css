@@ -4,6 +4,9 @@ h1 {
     font-size: 200px;
 }
 
+img:hover {
+    background-color: gold;
+}
 
 /************************* CLASS SELECTORS ************/
 .bacon {
