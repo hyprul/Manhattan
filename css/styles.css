@@ -17,3 +17,7 @@ h1 {
 h3 {
     color: #00adb5;
 }
+
+.profile {
+    border-radius: 20%;
+}

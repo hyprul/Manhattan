@@ -14,6 +14,10 @@ h1 {
     background-color: red;
 }
 
+.circular {
+    border-radius: 100%;
+}
+
 /************************* ID SELECTORS ************/
 
 #heading {
